@@ -12,10 +12,10 @@ Three.js, D3.js, Machine Learning, and Deep Learning  and AI-powered project dev
 [LinkedIn](https://www.linkedin.com/in/amirbekshomurodovakmal/) | [Email](mailto:amirbek.shomurodov01@gmail.com)  
 
 ## 🚀 Toolbox  
-**Backend Frameworks:** Spring Boot, Django, Flask, Node.js  
+- **Backend Frameworks:** Spring Boot, Django, Flask, Node.js  
 - **Frameworks:** Spring Boot, Node.js, React.js
 - **Databases:** MySQL, MongoDB, PostgreSQL  
-- **Tools:** Git, Docker, Jenkins, AWS, Azure  
+- **Tools:** Git, Docker, Jenkins, AWS, Azure, Figma
 
 ---
 
