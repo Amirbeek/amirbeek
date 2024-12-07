@@ -1,3 +1,7 @@
+are those good:# Hey, I am Amirbek Shomurodov 👋  
+
+Currently a final-year Computer Science student at Brunel University London specializing in Artificial Intelligence. Originally from Uzbekistan, I am passionate about developing AI-powered applications and improving user experiences through robust software design.
+
 ## 🚀 Toolbox  
 
 ### **Backend Frameworks:**  
