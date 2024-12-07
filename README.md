@@ -4,10 +4,20 @@ I'm a final-year **Computer Science** student at **Brunel University London**, s
 
 ---
 
+## 🌐 **My Website**  
+[Visit my website](https://amirbeek.github.io/)
+
+---
+
 ## 🚀 **Currently Learning**  
 - **Three.js**, **D3.js**  
 - **Machine Learning** & **Deep Learning**  
 - **AI-powered Project Development**  
+
+---
+
+## 📫 **How to Reach Me**  
+[LinkedIn](https://www.linkedin.com/in/amirbekshomurodovakmal/) | [Email](mailto:amirbek.shomurodov01@gmail.com)
 
 ---
 
