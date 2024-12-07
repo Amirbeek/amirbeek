@@ -3,17 +3,17 @@
 Currently a final-year Computer Science student at Brunel University London specializing in Artificial Intelligence. Originally from Uzbekistan, I am passionate about developing AI-powered applications and improving user experiences through robust software design.
 
 ## 👨🏻‍💻 My Website  
-[amirbekshomurodov.com](https://amirbekshomurodov.com)  
+[https://amirbeek.github.io/](https://amirbeek.github.io/)  
 
 ## 🌱 Currently Learning  
-Machine Learning, Deep Learning, and AI-powered project development.  
+Three.js, D3.js, Machine Learning, and Deep Learning  and AI-powered project development.  
 
 ## 📫 How to Reach Me  
-[LinkedIn](https://linkedin.com/in/amirbekshomurodov) | [Email](mailto:amirbekshomurodov@example.com)  
+[LinkedIn](https://www.linkedin.com/in/amirbekshomurodovakmal/) | [Email](mailto:amirbek.shomurodov01@gmail.com)  
 
 ## 🚀 Toolbox  
-- **Languages:** Java, JavaScript, Python  
-- **Frameworks:** Spring Boot, Node.js, React.js  
+**Backend Frameworks:** Spring Boot, Django, Flask, Node.js  
+- **Frameworks:** Spring Boot, Node.js, React.js
 - **Databases:** MySQL, MongoDB, PostgreSQL  
 - **Tools:** Git, Docker, Jenkins, AWS, Azure  
 
