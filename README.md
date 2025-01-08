@@ -5,7 +5,7 @@ I'm a final-year **Computer Science** student at **Brunel University London**, s
 ---
 
 ## 🌐 **My Website**  
-[Visit my website](https://amirbeek.github.io/)
+[Visit my website](https://www.amirbekshomurodov.me/)
 
 ---
 
