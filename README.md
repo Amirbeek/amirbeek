@@ -16,11 +16,6 @@ I'm a final-year **Computer Science** student at **Brunel University London**, s
 
 ---
 
-## 📫 **How to Reach Me**  
-[LinkedIn](https://www.linkedin.com/in/amirbekshomurodovakmal/) | [Email](mailto:amirbek.shomurodov01@gmail.com)
-
----
-
 ## 🛠️ **Technologies & Tools**  
 
 ### **Backend Frameworks**  
