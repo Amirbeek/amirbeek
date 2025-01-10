@@ -30,6 +30,3 @@ Currently a senior Computer Science student at  **Brunel University London**, sp
 ### **Design & Tools**  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
----
-
-> **“Strive not to be a success, but rather to be of value.”** – Albert Einstein
