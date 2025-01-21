@@ -1,6 +1,6 @@
 # **Hey, I am Amirbek Shomurodov** 👋  
 
-Currently a senior Computer Science student at  **Brunel University London**, specializing in **Artificial Intelligence**. Originally from **Uzbekistan**, I am passionate about developing AI-powered applications and creating innovative software solutions that improve user experiences.  
+Currently a Computer Science student at  **Brunel University London**, specializing in **Artificial Intelligence**. Originally from **Uzbekistan**, I am passionate about developing AI-powered applications and creating innovative software solutions that improve user experiences.  
 
 ---
 
