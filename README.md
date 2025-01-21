@@ -17,7 +17,7 @@ Currently a senior Computer Science student at  **Brunel University London**, sp
 
 ## **Technologies & Tools**
 
-**Backend**: Node.js, Java  
+**Backend**: Node.js, Spring Boot, Flask 
 **Frontend**: ReactJS, GatsbyJS, Three.js, HTML5, CSS3  
 **Databases & Cloud**: MongoDB, PostgreSQL, AWS  
 **Design & Tools**: Figma, Adobe Illustrator, Photoshop, Premiere Pro, DaVinci Resolve, Adobe XD, Git  
