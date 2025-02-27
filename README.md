@@ -23,4 +23,5 @@ Currently a Computer Science student at  **Brunel University London**, specializ
 **Design & Tools**: Figma, Adobe Illustrator, Photoshop, Premiere Pro, Adobe XD, Git  
 **Languages**: Python, Java, JavaScript, TypeScript
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Amirbee001?theme=dark&font=Abel)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Amirbee001?theme=dark&font=Abel)](https://leetcode.com/u/Amirbee001/)
+
