@@ -24,9 +24,3 @@ Currently a Computer Science student at  **Brunel University London**, specializ
 **Languages**: Python, Java, JavaScript, TypeScript
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Amirbeek?theme=dark&font=Abel)](https://leetcode.com/u/Amirbeek/)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Amirbee001?theme=dark&font=Abel)
-
-
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Amirbee001?theme=dark)](https://leetcode.com/u/Amirbee001/)
