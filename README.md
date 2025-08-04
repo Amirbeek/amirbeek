@@ -22,3 +22,5 @@ Currently a Computer Science student at  **Brunel University London**, specializ
 **Databases & Cloud**: MongoDB, PostgreSQL, AWS  
 **Design & Tools**: Figma, Adobe Illustrator, Photoshop, Premiere Pro, Adobe XD, Git  
 **Languages**: Python, Java, JavaScript, TypeScript
+
+🇺🇿 **Are you Uzbek?** Follow me on [Medium](https://medium.com/@amirbek.shomurodov01) for insightful content and research in the Uzbek language!
