@@ -17,7 +17,7 @@ Currently a Computer Science student at  **Brunel University London**, specializ
 
 ## **Technologies & Tools**
 
-**Backend**: Node.js, Spring Boot, Flask, Deno    
+**Backend**: Node.js, Spring Boot, Flask, Go    
 **Frontend**: ReactJS, GatsbyJS, Three.js, HTML5, CSS3  
 **Databases & Cloud**: MongoDB, PostgreSQL, AWS  
 **Design & Tools**: Figma, Adobe Illustrator, Photoshop, Premiere Pro, Adobe XD, Git  
