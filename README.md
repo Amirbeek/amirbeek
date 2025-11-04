@@ -10,11 +10,9 @@ Computer Science graduate from Brunel University London. Originally from Uzbekis
 ---
 
 ## **Currently Learning**  
-- **Three.js**, **D3.js**  
-- **Machine Learning** & **AI Projects**
+- **System Designing**, **DevOps**  
 
 ---
-
 ## **Technologies & Tools**
 
 **Backend**: Node.js, Spring Boot, Go    
