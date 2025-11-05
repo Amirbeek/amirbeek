@@ -1,6 +1,6 @@
 # **Hey, I am Amir** 👋  
 
-Computer Science graduate from Brunel University London. Originally from Uzbekistan, I enjoy building useful and practical software solutions.  
+Computer Science graduate from Brunel University London. Originally from Uzbekistan.
 
 ---
 
