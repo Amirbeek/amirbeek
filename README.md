@@ -16,7 +16,7 @@ Computer Science graduate from Brunel University London. Originally from Uzbekis
 ## **Technologies & Tools**
 
 **Backend**: Node.js, Spring Boot, Go    
-**Frontend**: ReactJS, GatsbyJS, Three.js, HTML5, CSS3  
+**Frontend**: ReactJS, Three.js, HTML5, CSS3  
 **Databases & Cloud**: MongoDB, PostgreSQL, Redis  
 **Languages**: Python, Java, JavaScript, Go
 
