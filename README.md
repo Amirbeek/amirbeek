@@ -5,7 +5,7 @@ Computer Science graduate from Brunel University London. Originally from Uzbekis
 ---
 
 ## 🌐 **My Website**  
-[Visit my website](https://www.amirbekshomurodov.me/)
+[Visit my website](https://amirbeek.com)
 
 ---
 
