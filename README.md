@@ -10,7 +10,7 @@ Computer Science graduate from Brunel University London. Originally from Uzbekis
 ---
 
 ## **Currently Learning**  
-- **System Designing**, **DevOps**  
+-  **DevOps**, **Electronics**  
 
 ---
 ## **Technologies & Tools**
